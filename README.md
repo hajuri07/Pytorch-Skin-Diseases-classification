@@ -11,8 +11,11 @@ A deep learning-powered web application that classifies **7 types of skin diseas
 
 ## 🖼️ Demo
 
-> Upload a skin lesion image → get instant AI-powered classification with confidence scores
-Deploye link :-https://pytorch-skin-diseases-classificationby-hajuri.streamlit.app/
+> Upload a skin lesion image → get instant AI-powered classification with confidence score
+> Deployed link :-https://pytorch-skin-diseases-classificationby-hajuri.streamlit.app/
+
+
+
 ---
 
 ## 🏥 Supported Disease Classes
