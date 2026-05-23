@@ -8,11 +8,11 @@ A deep learning-powered web application that classifies **7 types of skin diseas
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ---
-
+> Deployed link :-https://pytorch-skin-diseases-classificationby-hajuri.streamlit.app/
 ## 🖼️ Demo
 
 > Upload a skin lesion image → get instant AI-powered classification with confidence score
-> Deployed link :-https://pytorch-skin-diseases-classificationby-hajuri.streamlit.app/
+
 
 
 
