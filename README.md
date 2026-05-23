@@ -12,9 +12,7 @@ A deep learning-powered web application that classifies **7 types of skin diseas
 ## 🖼️ Demo
 
 > Upload a skin lesion image → get instant AI-powered classification with confidence scores
-
-![App Screenshot](demo.png)
-
+Deploye link :-https://pytorch-skin-diseases-classificationby-hajuri.streamlit.app/
 ---
 
 ## 🏥 Supported Disease Classes
@@ -95,23 +93,6 @@ jupyter notebook notebooks/train.ipynb
 streamlit run app.py
 ```
 
----
-
-## 📁 Project Structure
-
-```
-skin-disease-classifier/
-├── data/
-│   ├── HAM10000_images/        ← dataset images
-│   └── HAM10000_metadata.csv   ← labels
-├── notebooks/
-│   └── train.ipynb             ← training + evaluation
-├── assets/
-│   └── demo.png                ← screenshot for README
-├── app.py                      ← Streamlit web app
-├── requirements.txt
-└── README.md
-```
 
 ---
 
