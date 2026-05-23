@@ -13,7 +13,7 @@ A deep learning-powered web application that classifies **7 types of skin diseas
 
 > Upload a skin lesion image → get instant AI-powered classification with confidence scores
 
-![App Screenshot](assets/demo.png)
+![App Screenshot](demo.png)
 
 ---
 
